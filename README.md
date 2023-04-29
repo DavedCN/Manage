@@ -1,4 +1,4 @@
 # Manage
 
 A landing page built with Tailwind CSS.
-Live at 
+Live at  https://davedcn.github.io/Manage/
